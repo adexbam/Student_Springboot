@@ -1,4 +1,4 @@
-package com.amego.demo.student;
+package com.demo.student;
 
 import jakarta.persistence.*;
 

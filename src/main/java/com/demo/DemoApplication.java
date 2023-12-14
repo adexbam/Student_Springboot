@@ -1,4 +1,4 @@
-package com.amego.demo;
+package com.demo;
 
 
 import org.springframework.boot.SpringApplication;
